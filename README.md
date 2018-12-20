@@ -3,6 +3,7 @@ Created a Tetris game with Javascript (youtube tutorial) (https://www.youtube.co
 to rotate the objects
 
 Q = clockwise
+
 W = counter- clockwise
 
 use these keys to rotate 
